@@ -10,7 +10,7 @@
 
 ## Установка
 ```bash
-git clone https://github.com/username/geometry-figures.git
+git clone https://github.com/Antirry/Test_Geometry_Mindbox.git
 cd geometry-figures
 pip install -e .[dev]
 ```
@@ -33,7 +33,7 @@ print("Is right triangle?", t.is_right())
 ## Расположение папок проекта
 
 ```py
-geometry-lib/
+geometry-figures/
 │
 ├── geometry/
 │   ├── __init__.py
