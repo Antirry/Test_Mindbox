@@ -10,7 +10,8 @@
 
 ## Установка
 ```bash
-git clone https://github.com/Antirry/Test_Geometry_Mindbox.git
+git clone https://github.com/Antirry/Test_Mindbox.git
+cd Test_Mindbox
 cd geometry-figures
 pip install -e .[dev]
 ```
