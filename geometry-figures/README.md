@@ -30,22 +30,3 @@ t = Triangle(3, 4, 5)
 print("Triangle area:", t.area())
 print("Is right triangle?", t.is_right())
 ```
-
-## Расположение папок проекта
-
-```py
-geometry-figures/
-│
-├── geometry/
-│   ├── __init__.py
-│   ├── base.py          # Абстрактный класс Figure
-│   ├── circle.py        # Класс Circle
-│   ├── triangle.py      # Класс Triangle
-│
-├── tests/
-│   ├── test_circle.py
-│   ├── test_triangle.py
-│
-├── setup.py             # Для установки как пакета
-└── README.md
-```
