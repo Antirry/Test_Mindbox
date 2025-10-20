@@ -14,9 +14,9 @@ git clone https://github.com/Antirry/Test_Mindbox.git
 cd Test_Mindbox
 cd geometry-figures
 pip install -e .[dev]
+pytest -s
+python run/file.py
 ```
-
-
 
 ## Пример использования
 ```py
